@@ -17,8 +17,8 @@ This is the final project of **_Udacity Robotics Software Engineer_** Nano Degre
 - Ubuntu 16.04 OS with default make (>=4.1) and g++/gcc (>=5.4) packages
 - Gazebo >= 7.0
 - ROS Kinetic
-##### following ROS packages were used and the process of obtaining them is detailed below:
-- gmapping
-- turtlebot_teleop
-- turtlebot_rviz_launchers
-- turtlebot_gazebo
+- following ROS packages were used and the process of obtaining them is detailed below:
+  - gmapping
+  - turtlebot_teleop
+  - turtlebot_rviz_launchers
+  - turtlebot_gazebo
