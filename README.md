@@ -1,6 +1,6 @@
 # Home Service Robot
 ## Objective
-This is the final project of **_Udacity Robotics Software Engineer_** Nano Degree Program which applies **SLAM and Navigation** on mobile robot. The goal of this project was to design a robot's environment in gazebo and program the home-service robot that will map it's environment and autonomously navigate to pre-specified pickup and drop-off locations(_Performing Delivery_). For this one needed to:
+This is the final project of **_Udacity Robotics Software Engineer_** Nano Degree Program which applies ***SLAM and Navigation*** on mobile robot. The goal of this project was to design a robot's environment in gazebo and program the home-service robot that will map it's environment and autonomously navigate to pre-specified pickup and drop-off locations(_Performing Delivery_). For this one needed to:
 - Design robot's environment with the Building Editor in Gazebo.
 - Teleoperate the robot and manually test SLAM.
 
@@ -17,8 +17,11 @@ This is the final project of **_Udacity Robotics Software Engineer_** Nano Degre
 - Ubuntu 16.04 OS with default make (>=4.1) and g++/gcc (>=5.4) packages
 - Gazebo >= 7.0
 - ROS Kinetic
-- following ROS packages were used and the process of obtaining them is detailed below:
+- Following ROS packages were used and the process of obtaining them is detailed below:
   - gmapping
   - turtlebot_teleop
   - turtlebot_rviz_launchers
   - turtlebot_gazebo
+
+### Gazebo Environment
+![image](https://user-images.githubusercontent.com/67613439/125279980-2f844680-e332-11eb-9619-8029d78f0413.png)
