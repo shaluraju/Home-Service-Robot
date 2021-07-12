@@ -13,6 +13,26 @@ This is the final project of **_Udacity Robotics Software Engineer_** Nano Degre
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67613439/125275120-43c54500-e32c-11eb-8349-713900f530ae.gif)
 
+### Project Structure
+This directory represents the main project's **src** folder structure with following contents
+
+- images - folder with images and videos for this report
+- add_markers - add marker C++ node
+- config - folder with configuration file to specify pick-up and drop-off locations
+- map - map and gazebo world files
+- pick_objects - pick-objects C++ node
+- rvizConfig - folder with rViz configurations used with some launch scripts
+- scripts - shell scripts
+  - add_marker.sh - script for testing add_marker concept with add_markers_test.cpp
+  - home_service.sh - main script for the home-service-robot
+  - pick_objects.sh - script for testing pick_objects concept with pick_objects_test
+  - test_navigation.sh - script for testing navigation
+  -test_slam.sh - script for performing SLAM and preparing map
+- slam_gmapping - official ROS package with gmapping_demo.launch file
+- turtlebot - official ROS package with keyboard_teleop.launch file
+- turtlebot_interactions - official ROS package with view_navigation.launch file
+turtlebot_simulator - official ROS package with turtlebot_world.launch file
+
 ### Configuration
 - Ubuntu 16.04 OS with default make (>=4.1) and g++/gcc (>=5.4) packages
 - Gazebo >= 7.0
