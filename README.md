@@ -23,9 +23,9 @@ This directory represents the main project's **src** folder structure with follo
 - pick_objects - pick-objects C++ node
 - rvizConfig - folder with rViz configurations used with some launch scripts
 - scripts - shell scripts
-  - add_marker.sh - script for testing add_marker concept with add_markers_test.cpp
+  - add_marker.sh - script for testing add_marker concept with add_markers.cpp
   - home_service.sh - main script for the home-service-robot
-  - pick_objects.sh - script for testing pick_objects concept with pick_objects_test
+  - pick_objects.sh - script for testing pick_objects concept with pick_objects.cpp
   - test_navigation.sh - script for testing navigation
   -test_slam.sh - script for performing SLAM and preparing map
 - slam_gmapping - official ROS package with gmapping_demo.launch file
