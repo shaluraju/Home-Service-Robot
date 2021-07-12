@@ -24,4 +24,5 @@ This is the final project of **_Udacity Robotics Software Engineer_** Nano Degre
   - turtlebot_gazebo
 
 ### Gazebo Environment
-![image](https://user-images.githubusercontent.com/67613439/125279980-2f844680-e332-11eb-9619-8029d78f0413.png)
+![environment](https://user-images.githubusercontent.com/67613439/125280102-5478b980-e332-11eb-9660-285a5f9ec382.png)
+
